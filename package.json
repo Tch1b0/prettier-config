@@ -1,0 +1,19 @@
+{
+    "name": "prettier-config",
+    "version": "1.0.0",
+    "description": "My personal Prettier configuration",
+    "main": "index.json",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Tch1b0/prettier-config.git"
+    },
+    "keywords": [
+        "prettier"
+    ],
+    "author": "tch1b0 <jpour3006@gmail.com> (https://johannespour.de/)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Tch1b0/prettier-config/issues"
+    },
+    "homepage": "https://github.com/Tch1b0/prettier-config#readme"
+}
